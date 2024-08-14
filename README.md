@@ -22,16 +22,16 @@ The objective of the study to help the company maintain stronger bonds with thos
 
 #
 
-<img align="left" width="250" height="200" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/dog-puns-collie-you-later.jpg"> **[Collaborative-filtering Jokes Recommendation Engine](https://github.com/Celinejxy/JESTER-DS)**
+<img align="left" width="250" height="200" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/dog-puns-collie-you-later.jpg"> **[Song Recommendation System](https://github.com/Celinejxy/JESTER-DS)**
 
-Alternating least squares(ALS) and item-based collaborative-filtering(IBCF) algorithms were built for personalized jokes recommendation system. In addition, self-implemented Singular Value Decomposition was used with IBCF to improve the computation cost of recommendation. All three models are tested with cross-validated and compared using RMSE. In development process, I take into account that the IBCF is a memory-based method that computes similarity scores between items based on their co-occurrence in user interactions, while ALS is a matrix factorization algorithm that allows running in an efficient parallel fashion.
+Alternating least squares(ALS) and item-based collaborative-filtering(IBCF) algorithms were built for music recommendation system. Three sub models are developed to predict/recommend songs. All three models are tested with cross-validated and compared using customized rating. 
 
 #
 
-<img align="left" width="250" height="180" src="Images/wine.jpg"> **[A Comparision of ML algorithm Using Wine Quality Dataset ](wine_quality)**
+<img align="left" width="250" height="180" src="Images/wine.jpg"> **[Visulization of California Fire Dataset ](wine_quality)**
 
-In this process, wine quality is modeled based on physicochemical tests by using various ML models and approaches as well as PCA for Dimension Reduction. 
-Models include K-NN, SVM, Decision Trees and Clustering, where each model’s performance was analyzed using precision and recall.Results shows that the KNN algorithm has the best accuracy with a precision value of 98%. In comparison, the SVM will occasionally misclassify an item in the minority class, whereas the Decision trees are able to generate understandable rules without requiring much computation and prior knowledge
+Utilized Python and Tableau to visulize scale and impact of fire.
+Location mapping included. 
 
 #
 
@@ -43,9 +43,13 @@ Developed a simple deterministic classification model to predict the severity of
 
 ## Micro Projects
 - ### Statistics and Machine Learning
-    - [Classifying/Predicting Modelling with scikit_Learn ](Classification) : In this folder, I have done exploratory analysis and implemented kNN, decision tree, Naive Bayes, and linear discriminant analysis with cross-validations on the adult census dataset. 
+    - [Classifying/Predicting Modelling with scikit_Learn ](Classification) : Implement exploratory analysis and different algorithms including lineaer regression, kNN, decision tree, Naive Bayes, and linear discriminant analysis with cross-validations on the wine quality and diabetes dataset. 
 
-    - [Bayesian Statistics]: In this file, I explored how bayesian statistics works and how prior assumption reflects posterior probabilities using Gun control example. 
+In this process, wine quality is modeled based on physicochemical tests by using various ML models and approaches as well as PCA for Dimension Reduction. 
+Models include K-NN, SVM, Decision Trees and Clustering, where each model’s performance was analyzed using precision and recall.Results shows that the KNN algorithm has the best accuracy with a precision value of 98%. In comparison, the SVM will occasionally misclassify an item in the minority class, whereas the Decision trees are able to generate understandable rules without requiring much computation and prior knowledge
+
+
+    - [Bayesian Statistics]: Bayesian statistics and how prior assumption reflects posterior probabilities using Gun control example. 
 
     - [Classifying Modelling and Relevance Feedback Algorithm](https://github.com/Celinejxy/kNN_Rocchio_NewsGroups.git): I implemented KNN and Rocchio methods with TFIDF for text categorization. The output has shown that the most optimal kNN classifer outperforms the Rocchio classifer by approximately 1.5%, while with constantly better accuracy rate regardless of the number of K. While the dataset is large and the classes may not be linearly separable, kNN can handle complex classes better than Rocchio, which has a high bias and low variance.
 
