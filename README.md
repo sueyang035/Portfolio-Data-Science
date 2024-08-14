@@ -64,8 +64,6 @@ In this file, I implemented KMeans Clustering based on TFIDF_transformed text da
  
 ## Core Competencies
 
-- **Programming**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SAS;
-- **Analysis**: A/B Testing and Experimentation Design, Statistical Inference, Big Data Analytics, Tableau, SQL;
-- **Machine Learning**: Supervised/Unsupervised, Regression, Optimization, Pipeline, NLP, Feature Engineering;
-- **Models**: Linear/Non-Linear, Ensemble methods, Decision Trees, Social Network Analysis, Time Series Analysis;
-
+- **Programming**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Ggplot2), SAS, SQL;
+- **Analysis**: A/B Testing and Experimentation Design, Statistical Inference, Big Data Analytics, Tableau; 
+- **Machine Learning**: Regression, Decision Trees, Ensemble methods, Feature Engineering;
