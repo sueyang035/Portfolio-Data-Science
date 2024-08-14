@@ -10,39 +10,39 @@ Data Science Portfolio
 
 Multiple supervised classification methods were developed, including, random forest and SVM.
 Improve upon mdoel using grid search for best parameters. 
-Evaludate with accuracy, F1 scores. 
+Evaludate with accuracy, F1 scores.
 
 
 #
+<br />
 
-<img align="left" width="250" height="180" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Predicting Spending Based on Consumer Analysis](https://github.com/Celinejxy/Predicting-Consumer-Spending.git)**
+<img align="right" width="250" height="180" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Prediction of the percentage of THE diabetic population within US with R](https://github.com/Celinejxy/Predicting-Consumer-Spending.git)**
 
 The objective of the study to help the company maintain stronger bonds with those high-spending customers in less marketing expenses. Here, I apply Segmentation on customers population and analyse their significant features. By applying KMeans Clustering along with PCA, I detect clusters with similar consumer behaviours. Clustering results were followed by predictive ML models, including training K-NN and Decision Tree classifiers, with Hyperparameter tuning and Cross-Validation. Finally, the models were validated through techniques such as ROC, precision, and recall.
 
-
 #
+<br />
 
 <img align="left" width="250" height="200" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/song.webp"> **[Song Recommendation System](https://github.com/Celinejxy/JESTER-DS)**
 
 Alternating least squares(ALS) and item-based collaborative-filtering(IBCF) algorithms were built for music recommendation system. Three sub models are developed to predict/recommend songs. All three models are tested with cross-validated and compared using customized rating. 
 
 #
+<br />
 
-
-
-<img align="left" width="250" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/fire.webp"> **[Visulization of California Fire Dataset ]**()
+<img align="right" width="250" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/fire.webp"> **[Visulization of California Fire Dataset ]()**
 
 Utilized Python and Tableau to visulize scale and impact of fire.
 Location mapping included. 
 
 #
-<img align="left" width="250" height="160" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/storm.jpeg"> **[Mining Geophysical Parameters Through Decision-tree Analysis](storm_ds)**
-
-Developed a simple deterministic classification model to predict the severity of certain storms. The model is based on the co-occurrence of environmental parameters. Main effort was made on optimizing a Decision Tree model with parallel hyperparameter tuning. Process allowed us to gain intuition about the tradeoffs of model quality and complexity for the imbalanced dataset. Grid Search was applied on minbucket, minsplit and maxdepth hyperparameters, using Stratified Cross-Validated.
 
 <br />
 
+
 ## Micro Projects
+
+
 - ### Statistics and Machine Learning
     - [Classifying/Predicting Modelling with scikit_Learn ](Classification) : Implement exploratory analysis and different algorithms including lineaer regression, kNN, decision tree, Naive Bayes, and linear discriminant analysis with cross-validations on the wine quality and diabetes dataset. 
 
