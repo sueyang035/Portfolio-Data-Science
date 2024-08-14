@@ -6,10 +6,11 @@ Data Science Portfolio
 
 ## Projects
 
-<img align="left" width="250" height="180" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/toxic_comm.jpeg"> **[Toxic Comment Classification using Wikipedia's Talk Page Data](https://github.com/jjbocek/ToxicApp.git)**
+<img align="left" width="250" height="180" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/toxic_comm.jpeg"> **[Music Genre Classification/Multiclass classification](https://github.com/jjbocek/ToxicApp.git)**
 
-In this project, we aim to identify various forms of toxicity.  Multiple Supervised and Unsupervised methods were developed, including Logistic Regression, Naïve Bayes, K-Means Clustering and KNN; and TFIDF, Doc2Vec and SVD for Feature Engineering. A Pipeline was defined for full cycle implementation, allowing Cross Validation Optimization and model evaluation. Final model was implemented as the top three ensemble model via a "hard" vote.
-
+Multiple supervised classification methods were developed, including, random forest and SVM.
+Improve upon mdoel using grid search for best parameters. 
+Evaludate with accuracy, F1 scores. 
 
 #
 
