@@ -1,7 +1,5 @@
-# Portfolio-Data-Science
+# Portfolio-Data-Science - Sue Yang
 Data Science Portfolio 
-# Data Science Portfolio - Xuyang Ji
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 - **Email**: [sueyang035@gmail.com](sueyang035@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/sue-yang-510666b6](www.linkedin.com/in/sue-yang-510666b6)
