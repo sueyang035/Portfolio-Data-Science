@@ -28,7 +28,7 @@ Alternating least squares(ALS) and item-based collaborative-filtering(IBCF) algo
 
 #
 
-<img align="left" width="250" height="180" src="Images/wine.jpg"> **[Visulization of California Fire Dataset ](wine_quality)**
+<img align="left" width="250" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/fire.webp"> **[Visulization of California Fire Dataset ]**()
 
 Utilized Python and Tableau to visulize scale and impact of fire.
 Location mapping included. 
