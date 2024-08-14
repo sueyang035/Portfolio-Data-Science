@@ -41,20 +41,26 @@ Location mapping included.
 
 ## Micro Projects
 
-
 - ### Statistics and Machine Learning
 
-    - [Classifying/Predicting Modelling with scikit_Learn ](Classification) : Implement exploratory analysis and different algorithms including lineaer regression, kNN, decision tree, Naive Bayes, and linear discriminant analysis with cross-validations on the wine quality and diabetes dataset. 
+    - #### [Classifying/Predicting Modelling with scikit_Learn ](Classification)
+Implement exploratory analysis and different algorithms including lineaer regression, kNN, decision tree, Naive Bayes, and linear discriminant analysis with cross-validations on the wine quality and diabetes dataset. 
 
 In this process, wine quality is modeled based on physicochemical tests by using various ML models and approaches as well as PCA for Dimension Reduction. 
 Models include K-NN, SVM, Decision Trees and Clustering, where each model’s performance was analyzed using precision and recall.Results shows that the KNN algorithm has the best accuracy with a precision value of 98%. In comparison, the SVM will occasionally misclassify an item in the minority class, whereas the Decision trees are able to generate understandable rules without requiring much computation and prior knowledge
-    - [Bayesian Statistics]: Bayesian statistics and how prior assumption reflects posterior probabilities using Gun control example. 
+- #### [Bayesian Statistics]:
+Bayesian statistics and how prior assumption reflects posterior probabilities using Gun control example. 
 
-    - [Classifying Modelling and Relevance Feedback Algorithm]: (https://github.com/Celinejxy/kNN_Rocchio_NewsGroups.git): I implemented KNN and Rocchio methods with TFIDF for text categorization. The output has shown that the most optimal kNN classifer outperforms the Rocchio classifer by approximately 1.5%, while with constantly better accuracy rate regardless of the number of K. While the dataset is large and the classes may not be linearly separable, kNN can handle complex classes better than Rocchio, which has a high bias and low variance.
+- #### [Classifying Modelling and Relevance Feedback Algorithm]:
 
-    - [Linear Regression](linear_regression): Performed standard multiple linear regression, lasso regression, rigid regression, and stochastic gradient descent for regression algorithms with feature selection methods. Finally, perform model selection to find the best "l1_ratio" parameter using SGDRegressor with  the "elasticnet" penalty parameter. 
+I implemented KNN and Rocchio methods with TFIDF for text categorization. The output has shown that the most optimal kNN classifer outperforms the Rocchio classifer by approximately 1.5%, while with constantly better accuracy rate regardless of the number of K. While the dataset is large and the classes may not be linearly separable, kNN can handle complex classes better than Rocchio, which has a high bias and low variance.
 
-    -  [Clustering on Newsgroup Subsets](KMeans_Newsgroup_subset): In this file, I implemented KMeans Clustering based on TFIDF_transformed text dataset. For analyzing results, I have wwritten a function to display the top N terms in each cluster sorted by the cluster DF values for each term, the centroid weights for each term in the top N terms in the cluster (mean TFxIDF weight of the term), and the size of the cluster.
+ - #### [Linear Regression](linear_regression)
+Performed standard multiple linear regression, lasso regression, rigid regression, and stochastic gradient descent for regression algorithms with feature selection methods. Finally, perform model selection to find the best "l1_ratio" parameter using SGDRegressor with  the "elasticnet" penalty parameter. 
+
+ - ####  [Clustering on Newsgroup Subsets](KMeans_Newsgroup_subset)
+
+In this file, I implemented KMeans Clustering based on TFIDF_transformed text dataset. For analyzing results, I have wwritten a function to display the top N terms in each cluster sorted by the cluster DF values for each term, the centroid weights for each term in the top N terms in the cluster (mean TFxIDF weight of the term), and the size of the cluster.
  
 ## Core Competencies
 
