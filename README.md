@@ -23,9 +23,11 @@ The objective of the study to help the company maintain stronger bonds with thos
 
 #
 
-<img align="left" width="250" height="200" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/dog-puns-collie-you-later.jpg"> **[Song Recommendation System](https://github.com/Celinejxy/JESTER-DS)**
+<img align="left" width="250" height="200" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/song.webp"> **[Song Recommendation System](https://github.com/Celinejxy/JESTER-DS)**
 
 Alternating least squares(ALS) and item-based collaborative-filtering(IBCF) algorithms were built for music recommendation system. Three sub models are developed to predict/recommend songs. All three models are tested with cross-validated and compared using customized rating. 
+
+
 
 #
 
@@ -35,6 +37,8 @@ Alternating least squares(ALS) and item-based collaborative-filtering(IBCF) algo
 
 Utilized Python and Tableau to visulize scale and impact of fire.
 Location mapping included. 
+
+
 
 
 
