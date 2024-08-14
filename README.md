@@ -6,7 +6,7 @@ Data Science Portfolio
 
 ## Projects
 
-<img align="left" width="250" height="180" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/toxic_comm.jpeg"> **[Music Genre Classification/Multiclass classification](https://github.com/jjbocek/ToxicApp.git)**
+<img align="left" width="250" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/music%20genere.jpg"> **[Music Genre Classification/Multiclass classification](https://github.com/jjbocek/ToxicApp.git)**
 
 Multiple supervised classification methods were developed, including, random forest and SVM.
 Improve upon mdoel using grid search for best parameters. 
