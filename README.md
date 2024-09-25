@@ -43,7 +43,7 @@ Collaborative filtering model had a hit rate of 66% using Jaccard similarity and
 #
 <br />
 
-<img align="right" width="250" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/diabetes.jpg"> **[Prediction of the percentage of the diabetic population within US - R](https://github.com/Celinejxy/Predicting-Consumer-Spending.git)**
+<img align="right" width="250" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/diabetes.jpg"> **[Prediction of the percentage of the diabetic population within US - R](https://github.com/sueyang035/Portfolio-Data-Science/tree/Linear-Regression)**
 
 #### Models and Dataset
 Implemented multiple regression techniques (OLS, Ridge, LASSO) to identify the best model for
@@ -56,7 +56,7 @@ were obesity, physical inactivity, child poverty, and housing cost burden.
 #
 <br />
 
-<img align="right" width="250" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/fire.webp"> **[Visulization of California Fire Dataset - Python & Tableau ](https://github.com/sueyang035/Portfolio-Data-Science/blob/Data-Visualization/Wildfire%20Data%20Visualization%20Python.pdf)**
+<img align="right" width="250" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/fire.webp"> **[Visulization of California Fire Dataset - Python & Tableau ](https://github.com/sueyang035/Portfolio-Data-Science/tree/Data-Visualization)**
 
 Utilized Python and Tableau to visulize scale and impact of fire.
 Location mapping included. 
