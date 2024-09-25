@@ -6,7 +6,7 @@ Data Science Portfolio
 
 ## Projects
 
-<img align="left" width="200" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/music.webp"> **[Music Genre Classification/Multiclass classification - Python](https://github.com/jjbocek/ToxicApp.git)**
+<img align="left" width="200" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/music.webp"> **[Music Genre Classification/Multiclass classification - Python](https://github.com/sueyang035/Portfolio-Data-Science/blob/Music-Genre-Classification/Advanced%20Machine%20Learning%20Classificaiton.pdf)**
 
 #### Models & Dataset
 SVM and Random Forest were applied to classify ten music genres from the GTZAN dataset, which
@@ -27,7 +27,7 @@ results with test accuracy of 88%.
 #
 <br />
 
-<img align="left" width="200" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/song.webp"> **[Song Recommendation System - Python](https://github.com/Celinejxy/JESTER-DS)**
+<img align="left" width="200" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/song.webp"> **[Song Recommendation System - Python](https://github.com/sueyang035/Portfolio-Data-Science/blob/KNN--Song-Recommendation/KNN%20-%20Recommend%20Songs.ipynb)**
 
 #### Models & Dataset:
 Date from Million Song Dataset subset of 10,000 songs.
@@ -72,8 +72,8 @@ Location mapping included.
 
 - #### Create and udpate database - SQL & SQLite
 
- - #### [Data Analysis - SPSS](linear_regression)
-Performed standard multiple linear regression, lasso regression, rigid regression, and stochastic gradient descent for regression algorithms with feature selection methods. Finally, perform model selection to find the best "l1_ratio" parameter using SGDRegressor with  the "elasticnet" penalty parameter. 
+ - #### Data Analysis - SPSS
+
 
 
  
