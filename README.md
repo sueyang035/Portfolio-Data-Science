@@ -16,7 +16,7 @@ Evaludate with accuracy, F1 scores.
 #
 <br />
 
-<img align="left" width="200" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/song.webp"> **[Song Recommendation System - Python](https://github.com/Celinejxy/JESTER-DS)**
+<img align="left" width="200" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/song.webp"> **[Song Recommendation System - Python](KNN - Recommend Songs.ipynb)**
 
 Alternating least squares(ALS) and item-based collaborative-filtering(IBCF) algorithms were built for music recommendation system. Three sub models are developed to predict/recommend songs. All three models are tested with cross-validated and compared using customized rating. 
 
