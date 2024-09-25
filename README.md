@@ -31,7 +31,7 @@ results with test accuracy of 88%.
 
 #### Models & Dataset:
 Date from Million Song Dataset subset of 10,000 songs.
-Alternating least squares(ALS) and item-based collaborative-filtering(IBCF) algorithms were built for music recommendation system. Three sub models are developed to predict/recommend songs. All three models are tested with cross-validated and compared using customized rating. 
+Alternating least squares(ALS) and item-based collaborative-filtering(IBCF) algorithms were built for music recommendation system. Three sub models are developed to predict/recommend songs. All three models are tested with cross-validated.
 
 #### Feature Analysis
 Explored 7 categorical & 22 numerical features. Pinned artists' locations with geospatial mapping.
@@ -56,7 +56,7 @@ were obesity, physical inactivity, child poverty, and housing cost burden.
 #
 <br />
 
-<img align="right" width="250" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/fire.webp"> **[Visulization of California Fire Dataset - Python & Tableau ]()**
+<img align="right" width="250" height="180" src="https://github.com/sueyang035/Portfolio-Data-Science/blob/main/fire.webp"> **[Visulization of California Fire Dataset - Python & Tableau ](https://github.com/sueyang035/Portfolio-Data-Science/blob/Data-Visualization/Wildfire%20Data%20Visualization%20Python.pdf)**
 
 Utilized Python and Tableau to visulize scale and impact of fire.
 Location mapping included. 
