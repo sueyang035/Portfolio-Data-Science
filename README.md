@@ -2,7 +2,7 @@
 Data Science Portfolio 
 
 - **Email**: [sueyang035@gmail.com](sueyang035@gmail.com)
-- **LinkedIn**: [www.linkedin.com/in/sueyang035](www.linkedin.com/in/sueyang035)
+- **LinkedIn**: [www.linkedin.com/in/sueyang035/](https://www.linkedin.com/in/sueyang035/)
 
 ## Projects
 
